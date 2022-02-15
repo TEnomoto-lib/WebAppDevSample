@@ -1,5 +1,5 @@
 
 if isOK:
-    message="破棄しました"
+    message="保存しましt"
 else:
-    message="保存しました"
+    message="破棄しました"
